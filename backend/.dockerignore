@@ -1,0 +1,7 @@
+.dockerignore
+Dockerfile
+
+# Add these during production
+# And edit Dockerfile to not copy all the contents of backend/ to /code
+# __pycache__
+# app/__pycache__
