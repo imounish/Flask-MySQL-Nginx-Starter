@@ -1,6 +1,6 @@
 # Flask-MySQL-Nginx-Starter
 
-A starter kit for running **Nginx** for **Flask** and **MySQL** web applications as Docker containers.  
+A starter kit for running backend service using **Nginx**, **Flask**, and **MySQL** as Docker containers.  
 
 ## Description
 
